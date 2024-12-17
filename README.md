@@ -1,3 +1,4 @@
+This repository is basically a mirror from my private repository, so the commit author won't be linked to this profile (i use different e-mails for it)
 # Hidler
 An injectable dll extension made to hide any window from record (or screenshot) on Windows.
 
